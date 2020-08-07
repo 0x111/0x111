@@ -17,7 +17,7 @@ I'm currently maintaining a couple of Go projects like [sn-edit](https://github.
 > ― Westworld (TVSHOW, although it might have been told elsewhere too)
 
 
-If you have some questions shoot me a message at my email you can find here on my profile. I will try to reply to all of you!
+If you have some questions, then feel free to shoot me a message at my email you can find here on my profile. I will try to reply to all of you!
 
 Disclaimer: All of my statements made on this platform are simply my opinions and they might not be the same as my current employer's opinions. Please consider this all the time.
 
