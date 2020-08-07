@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there stranger 👋
+
+I am a software developer with many years of experience coding. My strong focus is on api-centric apps. This means frontend being a SPA and some API that gathers the data for the frontend app.
+
+As you can see below I am now writing backends in Go and for frontend I tend to use React as the main choice. I am also familiar with writing CLI apps and I love how easy it is with Go. 
+
+Most of the stuff I create I am also using personally, so it is not about quantity really. I appreciate all constructive feedback and if it has added value I am mostly welcome with making it happen.
+
+- I'm currently maintaining a couple of Go projects like [sn-edit](https://github.com/sn-edit), [telegram-rss-bot](https://github.com/0x111/telegram-rss-bot) and a couple others. If you think you can contribute or you've found some bugs, please post an issue and I will take a look asap!
+
+### 💬 Some of my favourite quotes which drive me every day:
+
+> “Never give up on something that you can't go a day without thinking about.”
+> ― Winston Churchill
+
+> "Free will is not free..."
+> ― Westworld (TVSHOW, although it might have been told elsewhere too)
+
+
+If you have some questions shoot me a message at my email you can find here on my profile. I will try to reply to all of you!
+
+Disclaimer: All of my statements made on this platform are simply my opinions and they might not be the same as my current employer's opinions. Please consider this all the time.
 
 <!--
 **0x111/0x111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My contributions
+<img src="https://github-readme-stats.vercel.app/api?username=0x111&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x111&theme=gotham&layout=compact" />
