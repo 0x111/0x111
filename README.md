@@ -21,7 +21,7 @@ Visit my portfolio [website](https://szolar.ly) for more.
 
 If you have some questions, then feel free to shoot me a message at my email you can find here on my profile. I will try to reply to all of you!
 
-**Disclaimer**: All of my statements made on this platform are simply my opinions and they might not be the same as my current employer's opinions. Please respect this while discussing with me :), appreciate your understanding!
+**Disclaimer**: All of my statements made on this platform are simply my opinions and they might not be the same as my current employer's opinions. Please respect this while discussing with me 🙂, appreciate your understanding!
 
 <!--
 **0x111/0x111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
