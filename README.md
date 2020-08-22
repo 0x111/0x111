@@ -1,12 +1,14 @@
 ### Hi there stranger 👋
 
-I am a software developer with many years of experience coding. My strong focus is on api-centric apps. This means frontend being a SPA and some API that gathers the data for the frontend app. I have experience with containers, devops, maintaining linux servers in a larger scale or also virtualization. I am not stranger to javascript or web standards either. I think I am a principial man, and principles are important.
+I am a software engineer with many years of experience in the are of software development. My strong focus is on api-centric apps. This means frontend being a SPA and an API that processes and provides the data for the frontend. I have experience with containers, devops, maintaining linux servers in a larger scale and also virtualization amongst other things. I am not stranger to javascript or web standards either. I think I am a principial man, and principles are important.
 
 As you can see below I am now working with Go and for the frontend part I tend to use React as the main choice. I am also familiar with writing CLI apps and I love how easy it is with Go. 
 
-Most of the stuff I create I am also using personally, so it is not about quantity really. I appreciate all constructive feedback and if it has added value I am mostly welcome with making it happen.
+Most of the stuff I create I am also using personally, so it is not about quantity really. I appreciate all constructive feedback and if it has added value I am happy with making it happen.
 
 I'm currently maintaining a couple of Go projects like [sn-edit](https://github.com/sn-edit), [telegram-rss-bot](https://github.com/0x111/telegram-rss-bot) and a couple others. If you think you can contribute or you've found some bugs, please post an issue and I will take a look asap!
+
+Visit my portfolio [website](https://szolar.ly) for more.
 
 ### 💬 Some of my favourite quotes which drive me every day:
 
