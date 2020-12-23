@@ -9,6 +9,7 @@ Most of the stuff I create I am also using personally, so it is not about quanti
 I'm maintaining a couple of Go projects like [sn-edit](https://github.com/sn-edit), [telegram-rss-bot](https://github.com/0x111/telegram-rss-bot) and a couple others. If you think you can contribute or you've found some bugs, please post an issue and I will take a look asap!
 
 Visit my portfolio [website](https://szolar.ly) for more.
+
 Also follow me on twitter if you like [here](https://twitter.com/rszolar)! It would mean a lot to me :)!
 
 ### 💬 Some of my favourite quotes which drive me every day:
