@@ -1,6 +1,6 @@
 ### Hi there stranger 👋
 
-I am a software engineer with many years of experience in the area of software development. My focus is on api-centric apps. This means frontend being a SPA and an API that processes and provides the data for the frontend. I have experience with containers, devops, maintaining linux servers in a larger scale and also virtualization amongst other things. I am no stranger to javascript or web standards either. I think I am a principial man, and principles are important.
+I am a software engineer with many years of experience in the area of software development. My focus is on api-centric apps. Mostly SPA+API. I have experience with containers, devops, maintaining linux servers in a larger scale and also virtualization amongst other things. I am no stranger to javascript or web standards either. I think I am a principial man, and principles are important.
 
 As you can see below I am now working with Go and for the frontend part I tend to use React as the main choice. I am also familiar with writing CLI apps and I love how easy it is with Go. 
 
