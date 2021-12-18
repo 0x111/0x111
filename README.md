@@ -1,16 +1,14 @@
 ### Hi there stranger 👋
 
-I am a software engineer with many years of experience in the area of software development. My focus is on api-centric apps. Mostly SPA+API. I have experience with containers, devops, maintaining linux servers in a larger scale and also virtualization amongst other things. I am no stranger to javascript or web standards either. I think I am a principial man, and principles are important.
-
-As you can see below I am now working with Go and for the frontend part I tend to use React as the main choice. I am also familiar with writing CLI apps and I love how easy it is with Go. 
+I am a software engineer with many years of experience in the area of software development. My focus is on api-centric apps. Mostly SPA+API. I have experience with containers, devops, maintaining linux servers in a larger scale and also virtualization amongst other things. I am no stranger to javascript or web standards either. I think I am a principial man, and I believe principles are important.
 
 Most of the stuff I create I am also using personally, so it is not about quantity really. I appreciate all constructive feedback and if it has added value I am happy with making it happen.
 
-I'm maintaining a couple of Go projects like [sn-edit](https://github.com/sn-edit), [telegram-rss-bot](https://github.com/0x111/telegram-rss-bot) and a couple others. If you think you can contribute or you've found some bugs, please post an issue and I will take a look asap!
+I'm am a founder of a few open source Go projects like [sn-edit](https://github.com/sn-edit), [telegram-rss-bot](https://github.com/0x111/telegram-rss-bot) and a couple others. If you think you can contribute or you've found some bugs, please post an issue and I will take a look asap!
 
 Visit my portfolio [website](https://szolar.ly) for more.
 
-Also follow me on twitter if you like [here](https://twitter.com/rszolar)! It would mean a lot to me :)!
+Also follow me on twitter if you like [here](https://twitter.com/rszolar)!
 
 ### 💬 Some of my favourite quotes which drive me every day:
 
@@ -18,7 +16,7 @@ Also follow me on twitter if you like [here](https://twitter.com/rszolar)! It wo
 > ― Winston Churchill
 
 > "Free will is not free..."
-> ― Westworld (TVSHOW, although it might have been told elsewhere too)
+> ― Westworld
 
 
 If you have some questions, then feel free to shoot me a message at my email you can find here on my profile. I will try to reply to all of you!
