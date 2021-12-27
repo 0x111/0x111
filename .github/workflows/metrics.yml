@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: 0x111
+          user: '0x111'
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
