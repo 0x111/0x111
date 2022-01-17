@@ -2708,7 +2708,7 @@
                                                 <div class="title">
                                                     <span class="prefix">Great</span>
                                                     developer
-                                                    <span class="gh">ranked 750k out of 83m users</span>
+                                                    <span class="gh">ranked 751k out of 83m users</span>
                                                 </div>
                                                 <div class="text">Published 36 public repositories</div>
                                             </div>
@@ -3206,7 +3206,7 @@
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 17 Jan 2022, 17:02:29 (timezone Europe/Bratislava) with lowlighter/metrics@3.17.0</span>
+                                <span>Last updated 17 Jan 2022, 18:08:50 (timezone Europe/Bratislava) with lowlighter/metrics@3.17.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
