@@ -2990,7 +2990,7 @@ For me it seems to be working fine. I will adjust the app though, I do not care 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 780k out of 86m users</span>
+                                    <span class="gh">ranked 781k out of 86m users</span>
                                 </div>
                                 <div class="text">Followed by 11 users</div>
                             </div>
@@ -3213,7 +3213,7 @@ For me it seems to be working fine. I will adjust the app though, I do not care 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2022, 15:07:00 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 1 Mar 2022, 16:07:23 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
