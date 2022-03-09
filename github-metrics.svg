@@ -2730,7 +2730,7 @@ Thanks for reporting, it looks like they've finally changed the developer SSO lo
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.9558521560575 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3028,7 +3028,7 @@ Thanks for reporting, it looks like they've finally changed the developer SSO lo
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 596k out of 287m repositories</span>
+                                    <span class="gh">ranked 597k out of 287m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -3213,7 +3213,7 @@ Thanks for reporting, it looks like they've finally changed the developer SSO lo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2022, 19:03:16 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 20:02:19 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
