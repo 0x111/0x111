@@ -2995,7 +2995,7 @@ Improvements and ordering by field and ASC,DESC order</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 742k out of 89m users</span>
+                                    <span class="gh">ranked 743k out of 89m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -3218,7 +3218,7 @@ Improvements and ordering by field and ASC,DESC order</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2022, 03:31:12 (timezone Europe/Bratislava) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Apr 2022, 04:41:53 (timezone Europe/Bratislava) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
