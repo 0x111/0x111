@@ -2999,7 +2999,7 @@ Maybe you could fake the domain from where the Webapp runs on so it is not 127.0
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 816k out of 102m users</span>
+                                    <span class="gh">ranked 817k out of 102m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -3222,7 +3222,7 @@ Maybe you could fake the domain from where the Webapp runs on so it is not 127.0
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2022, 21:02:29 (timezone Europe/Bratislava) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 23 Nov 2022, 22:02:42 (timezone Europe/Bratislava) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
