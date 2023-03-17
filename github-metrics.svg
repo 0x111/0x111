@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1388 Commits
+                            1390 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    139 views in last two weeks
+                                    128 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.42907812267185" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="204.42907812267185" y="0" width="117.30098303601272" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="321.7300611586846" y="0" width="51.89832943441935" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.628390593104" y="0" width="35.98074931635021" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="409.6091399094542" y="0" width="27.11838451588303" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="436.7275244253372" y="0" width="14.91668329071986" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.64420771605705" y="0" width="6.313853268803758" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.9580609848609" y="0" width="2.0419390151391985" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.43143729586214" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="204.43143729586214" y="0" width="117.3023367247194" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="321.73377402058156" y="0" width="51.89892835678669" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.6327023773683" y="0" width="35.975856006369284" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="409.60855838373755" y="0" width="27.118697470215654" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="436.7272558539532" y="0" width="14.91685543374193" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.6441112876951" y="0" width="6.313926132573902" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.9580374202691" y="0" width="2.041962579731011" height="8" fill="#EB8CEB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2416,6 +2416,28 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">0x111/szolar.ly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ebe09a</div>
+                                        <div class="message">Update index.html
+
+Add analytics.szolar.ly instead of google tagmanager</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">0x111/up.szolar.ly</span>
                                     </div>
                                 </div>
@@ -2489,26 +2511,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">OliveTin/OliveTin</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">0x111/up.szolar.ly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">gh-pages</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4dd0259</div>
-                                        <div class="message">deploy: 651c3c81e9665e2332665856b9a0531ae4c769a5</div>
                                     </div>
                                 </div>
                             </section>
@@ -2674,7 +2676,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.4099999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.565 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2696,7 +2698,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 544 times</div>
+                                <div class="text">Repositories have been deployed 546 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3267,7 +3269,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2023, 09:02:38 (timezone Europe/Bratislava) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Mar 2023, 10:02:24 (timezone Europe/Bratislava) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
