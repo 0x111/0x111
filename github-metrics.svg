@@ -2773,7 +2773,7 @@ If you notice any additional information that might help me then don't hesitate 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 861k out of 117m users</span>
+                                    <span class="gh">ranked 814k out of 117m users</span>
                                 </div>
                                 <div class="text">Published 40 public repositories</div>
                             </div>
@@ -3311,7 +3311,7 @@ If you notice any additional information that might help me then don't hesitate 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2023, 00:02:30 (timezone Europe/Bratislava) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jun 2023, 01:02:33 (timezone Europe/Bratislava) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
