@@ -3072,7 +3072,7 @@ I am waiting for my instance to go to sleep now, so I can check this.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 643k out of 407m repositories</span>
+                                    <span class="gh">ranked 610k out of 407m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3333,7 +3333,7 @@ I am waiting for my instance to go to sleep now, so I can check this.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2023, 15:02:46 (timezone Europe/Bratislava) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 16:02:45 (timezone Europe/Bratislava) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
