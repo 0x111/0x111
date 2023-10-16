@@ -2639,7 +2639,7 @@ Change VCS Color code in skills block</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 883k out of 122m users</span>
+                                    <span class="gh">ranked 883k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 41 public repositories</div>
                             </div>
@@ -2832,7 +2832,7 @@ Change VCS Color code in skills block</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 866k out of 122m users</span>
+                                    <span class="gh">ranked 866k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2870,7 +2870,7 @@ Change VCS Color code in skills block</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 673k out of 43.1m repositories</span>
+                                    <span class="gh">ranked 674k out of 39.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3131,7 +3131,7 @@ Change VCS Color code in skills block</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 16:02:33 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 17:02:38 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
