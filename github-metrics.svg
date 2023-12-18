@@ -2826,7 +2826,7 @@ Thanks for your help @gu-does-git @vdesabou! I appreciate it and I will try my b
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 891k out of 126m users</span>
+                                    <span class="gh">ranked 892k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2864,7 +2864,7 @@ Thanks for your help @gu-does-git @vdesabou! I appreciate it and I will try my b
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 689k out of 54.1m repositories</span>
+                                    <span class="gh">ranked 689k out of 50.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3125,7 +3125,7 @@ Thanks for your help @gu-does-git @vdesabou! I appreciate it and I will try my b
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2023, 03:13:39 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2023, 04:02:37 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
